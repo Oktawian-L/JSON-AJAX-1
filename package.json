@@ -1,0 +1,25 @@
+{
+  "name": "json-ajax-1",
+  "version": "1.0.0",
+  "description": "ajax&json",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oktawian-L/JSON-AJAX-1.git"
+  },
+  "keywords": [
+    "tutorial",
+    "json",
+    "ajax",
+    "webpack"
+  ],
+  "author": "OLasek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oktawian-L/JSON-AJAX-1/issues"
+  },
+  "homepage": "https://github.com/Oktawian-L/JSON-AJAX-1#readme"
+}
