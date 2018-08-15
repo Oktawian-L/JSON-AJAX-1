@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Oktawian-L/JSON-AJAX-1/issues"
   },
-  "homepage": "https://github.com/Oktawian-L/JSON-AJAX-1#readme"
+  "homepage": "https://github.com/Oktawian-L/JSON-AJAX-1#readme",
+  "devDependencies": {
+    "axios": "^0.18.0"
+  }
 }
