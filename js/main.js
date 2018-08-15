@@ -22,5 +22,10 @@ btn.addEventListener("click",function()
 
 function renderujHTML(dane_input)
 {
-    animalContainer.insertAdjacentHTML('beforeend','testing 13w');
+    var html_str = "";
+
+    for (i = 0;i<dane_input.length;i++)
+        html_str += "<p>" + dane_input[i].name + " is " +dane_input[i].species +"</p>";
+
+    animalContainer.insertAdjacentHTML('beforeend',html_str);
 }
