@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/Oktawian-L/JSON-AJAX-1#readme",
   "devDependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.18.1"
   }
 }
